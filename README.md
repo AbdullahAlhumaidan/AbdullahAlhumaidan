@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Abdullah 👋
+# Hi, I'm Abdullah Alhumaidan 👋
 
 ### 🌐 Computer Network Engineering Student
-**Software Development • Embedded Systems • UAV Technology**
+**Network & routing • Embedded Systems • UAV Technology**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Network+Engineering;Python+%7C+Java+%7C+JavaScript;Exploring+Embedded+Systems+%26+Microcontrollers;Passionate+About+UAVs+%26+Semiconductors;Building+Technology+for+the+Future" alt="Typing Animation" />
 
