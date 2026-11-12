@@ -46,7 +46,8 @@ My interests include network infrastructure, wireless communication, embedded sy
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Orange Raspberry Pi](https://img.shields.io/badge/Orange%20Pi%204-FF7900?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
 
 ---
 
