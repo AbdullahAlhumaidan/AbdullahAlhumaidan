@@ -232,7 +232,7 @@ The system explores lighting control using Arduino, infrared remote commands, mo
 | 📡 **Wireless Communication** | Wireless Networks, Radio Links, Communication Protocols |
 | 🔌 **Microcontrollers** | STM32, ESP32, ARM Cortex-M, Arduino |
 | ⚙️ **Embedded Systems** | Embedded Linux, Hardware Integration |
-| 🖥️ **Single-Board Computers** | Orange Pi 4, ARM-Based Platforms |
+| 🖥️ **Single-Board Computers** | Raspberry Pi, ARM-Based Platforms |
 | 🚁 **UAV Technology** | UAV Communications, Aerial Networks, Drone Systems |
 | 🔬 **Semiconductors** | Integrated Circuits, Semiconductor Devices, Electronics |
 | 🌍 **IoT** | Connected Devices, Wireless Integration |
