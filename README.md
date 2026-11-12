@@ -1,83 +1,110 @@
-<div align="center">
-# Hi, I'm Abdullah Alhumaidan 👋
-### 🌐 Computer Network Engineering Student
-**Networking & Routing • Software Development • Embedded Systems • UAV Technology**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Computer+Network+Engineering;Python+%7C+Java+%7C+JavaScript+%7C+C+%7C+C%2B%2B;Networking+%26+Embedded+Systems;UAVs+%7C+Microcontrollers+%7C+Semiconductors;Exploring+Hardware+and+Software" alt="Typing Animation" />
-<img src="https://komarev.com/ghpvc/?username=AbdullahAlhumaidan&label=Profile+Views&color=0891b2&style=flat-square" alt="Profile Views" />
-</div>
+
+<h1 align="center">Hi, I'm Abdullah Alhumaidan 👋</h1>
+
+<p align="center">
+  <strong>Computer Network Engineering Student</strong>
+  <br />
+  Networking & Routing • Software Development • Embedded Systems • UAV Technology
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Exploring+Networks+and+Embedded+Systems;Python+%7C+Java+%7C+JavaScript+%7C+C+%7C+C%2B%2B;Interested+in+UAVs+and+Microcontrollers" alt="Animated introduction" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/AbdullahAlhumaidan">
+    <img src="https://img.shields.io/badge/GitHub-AbdullahAlhumaidan-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AbdullahAlhumaidan&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
+</p>
+
 ---
+
 ## 👨‍💻 About Me
-I'm a **Computer Network Engineering student** interested in networking, programming, embedded systems, and emerging technologies.
-- 🎓 Studying **Computer Network Engineering**
-- 🌐 Interested in **Network Infrastructure, Routing & Switching**
-- 💻 Programming with **Python, Java, JavaScript, C, and C++**
-- 🚁 Passionate about **UAVs and Drone Technology**
-- 🔌 Exploring **Microcontrollers and Embedded Systems**
-- 🖥️ Working with **Orange Pi 4**
-- 🔬 Interested in **Semiconductors and Electronics**
-- 📡 Exploring **Wireless Communication and IoT**
-- 🎯 Interested in connecting **Networking, Software, and Hardware**
+
+I'm a **Computer Network Engineering student** interested in the intersection of **networks, software, and hardware**.
+
+- 🌐 Focused on **network infrastructure, routing, and switching**.
+- 💻 Working with **Python, Java, JavaScript, C, and C++**.
+- 🖥️ Have worked with the **Orange Pi 4** single-board computer.
+- 🚁 Interested in **UAVs, embedded systems, and microcontrollers**.
+- 🔬 Curious about **semiconductors, electronics, and wireless communication**.
+
 ---
-## 🛠️ Technical Skills
-### 🌐 Networking & Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Routing](https://img.shields.io/badge/Routing-005A9C?style=for-the-badge)
-![Switching](https://img.shields.io/badge/Switching-0078D4?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-### ⚙️ Development Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Orange Pi](https://img.shields.io/badge/Orange_Pi_4-FF7900?style=for-the-badge&logo=linux&logoColor=white)
+
+## 🛠️ Technical Stack
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Networking & Systems**
+
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-155E75?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Tools & Hardware**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Orange Pi 4](https://img.shields.io/badge/Orange%20Pi%204-FF7900?style=flat-square&logoColor=white)
+
 ---
-## 🔬 Engineering & Technology Interests
-| Category | Technologies & Areas |
-|:---|:---|
-| 🌐 **Network Engineering** | Network Design, Routing, Switching, Infrastructure |
-| 📡 **Wireless Communication** | Wireless Networks, Communication Protocols, IoT |
-| 💻 **Programming** | Python, Java, JavaScript, C, C++ |
-| 🔌 **Microcontrollers** | STM32, ESP32, ARM Cortex-M, Arduino |
-| ⚙️ **Embedded Systems** | Firmware, Hardware Integration, Embedded Linux |
-| 🖥️ **Single-Board Computers** | Orange Pi 4, ARM-Based Systems |
-| 🚁 **UAV & Drone Technology** | Flight Controllers, UAV Communication, Drone Systems |
-| 🔬 **Semiconductors** | Integrated Circuits, Semiconductor Devices, Electronics |
+
+## 🔬 Engineering Interests
+
+| Area | What interests me |
+|:--|:--|
+| 🌐 **Network Engineering** | Network Design · Routing · Switching · Infrastructure |
+| 📡 **Wireless & IoT** | Wireless Communication · Network Protocols · IoT |
+| ⚙️ **Embedded Systems** | Embedded Linux · Hardware Integration · Firmware |
+| 🔌 **Microcontrollers** | STM32 · ESP32 · ARM Cortex-M · Arduino |
+| 🚁 **UAV Technology** | Drone Systems · Flight Controllers · UAV Communication |
+| 🔬 **Electronics** | Semiconductors · Integrated Circuits · Electronic Devices |
+
+> These are areas of interest and exploration, not a claim of professional experience in every technology listed.
+
 ---
-## 🚀 Featured Projects
-<!-- Replace the project placeholders with real repositories. -->
+
+## 🚀 Projects
+
+I'm documenting my work in networking, programming, and hardware projects.
+
+🔗 **[Explore my repositories](https://github.com/AbdullahAlhumaidan?tab=repositories)**
+
+<!--
+Add a real project here when its repository is ready. Example:
+
+### Project Name
+A short description of the problem and what you built.
+
+**Tech:** Python · Linux
+
+[View Repository](https://github.com/AbdullahAlhumaidan/REPOSITORY_NAME)
+-->
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-<a href="https://github.com/AbdullahAlhumaidan/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlhumaidan&repo=PROJECT_ONE&theme=tokyonight&hide_border=true" alt="Featured Project One" />
-</a>
-<a href="https://github.com/AbdullahAlhumaidan/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlhumaidan&repo=PROJECT_TWO&theme=tokyonight&hide_border=true" alt="Featured Project Two" />
-</a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahAlhumaidan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlhumaidan&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in public repositories" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=AbdullahAlhumaidan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
+
 ---
-## 📊 GitHub Analytics
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahAlhumaidan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlhumaidan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com?user=AbdullahAlhumaidan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
----
-## 🎯 Areas I'm Exploring
-- 🌐 Network Engineering & Automation
-- 🚁 UAV Communication & Drone Systems
-- 🔌 Microcontrollers & Embedded Systems
-- 🖥️ Single-Board Computers & Embedded Linux
-- 🔬 Semiconductor Technology & Electronics
-- 📡 Internet of Things (IoT)
-- ⚙️ Software & Hardware Integration
----
-<div align="center">
-### 🌌 Connecting Networks. Engineering Systems. Exploring the Sky.
-**Networking • Programming • Embedded Systems • UAV Technology**
-⭐ Thanks for visiting my profile!
-</div>
+
+<p align="center">
+  <strong>Connecting Networks. Exploring Hardware. Building with Code.</strong>
+  <br />
+  <sub>Thanks for visiting my profile!</sub>
+</p>
