@@ -1,12 +1,13 @@
 <div align="center">
 
-# Hi, I'm a Network Engineering Student 👋
+# Hi, I'm Abdullah 👋
 
-### Network Engineering | Software Development | UAV Technology
+### 🌐 Computer Network Engineering Student
+**Software Development • Embedded Systems • UAV Technology**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Network+Engineering;Python+%7C+Java+%7C+JavaScript;Networking+%26+Infrastructure;Exploring+Drone+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Network+Engineering;Python+%7C+Java+%7C+JavaScript;Exploring+Embedded+Systems+%26+Microcontrollers;Passionate+About+UAVs+%26+Semiconductors;Building+Technology+for+the+Future" alt="Typing Animation" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AbdullahAlhumaidan&label=Profile+Views&color=0891b2&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -14,40 +15,72 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Network Engineering student** passionate about designing reliable networks, building software solutions, and exploring emerging technologies.
+I'm a **Computer Network Engineering student** passionate about networking, programming, and emerging technologies.
 
+- 🎓 Studying **Computer Network Engineering**
 - 🌐 Interested in **Network Infrastructure, Routing & Switching**
 - 💻 Programming with **Python, Java, and JavaScript**
-- 🚁 Exploring **Drone Technology, UAV Systems & Wireless Communication**
-- 🐧 Interested in **Linux, OpenWrt & Network Automation**
-- 🎯 Focused on combining **Networking, Software, and UAV Technology**
+- 🚁 Passionate about **UAVs and Drone Technology**
+- 🔌 Exploring **Microcontrollers and Embedded Systems**
+- 🔬 Interested in **Semiconductors and Electronics**
+- 📡 Exploring **Wireless Communication and IoT**
+- 🎯 Interested in combining software, networking, and hardware
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🌐 Networking
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Routing_&_Switching-16324F?style=for-the-badge)
-![OSPF](https://img.shields.io/badge/OSPF-005A9C?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-0078D4?style=for-the-badge)
-![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
+### 🌐 Networking & Infrastructure
 
-### 💻 Programming
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-005A9C?style=for-the-badge)
+![Switching](https://img.shields.io/badge/Switching-0078D4?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 💻 Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🚁 UAV & Drone Technology
-![UAV](https://img.shields.io/badge/UAV-Technology-4B0082?style=for-the-badge)
-![Wireless](https://img.shields.io/badge/Wireless-Communication-0088CC?style=for-the-badge)
-![Drone](https://img.shields.io/badge/Drone-Systems-243B55?style=for-the-badge)
+### ⚙️ Development Tools
 
-### ⚙️ Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🔬 Engineering & Technology Interests
+
+| Field | Areas of Interest |
+|:---|:---|
+| 🌐 Networking | Network Design, Routing, Switching |
+| 🚁 UAV Technology | Drones, Flight Controllers, UAV Communication |
+| 🔌 Microcontrollers | Arduino, ESP32, STM32 |
+| ⚡ Embedded Systems | Firmware, Hardware Integration, IoT |
+| 🔬 Semiconductors | Integrated Circuits, Semiconductor Devices |
+| 📡 Wireless Systems | Wireless Networks, Communication Protocols |
+| 💻 Software | Python, Java, JavaScript |
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace PROJECT_ONE and PROJECT_TWO with your real repository names. -->
+
+<div align="center">
+
+<a href="https://github.com/AbdullahAlhumaidan/PROJECT_ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlhumaidan&repo=PROJECT_ONE&theme=tokyonight&hide_border=true" alt="Project One" />
+</a>
+
+<a href="https://github.com/AbdullahAlhumaidan/PROJECT_TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlhumaidan&repo=PROJECT_TWO&theme=tokyonight&hide_border=true" alt="Project Two" />
+</a>
+
+</div>
 
 ---
 
@@ -55,19 +88,33 @@ I'm a **Computer Network Engineering student** passionate about designing reliab
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahAlhumaidan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlhumaidan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=AbdullahAlhumaidan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
+## 🎯 Areas I'm Exploring
+
+- Network Engineering & Automation
+- UAV Communication & Drone Systems
+- Embedded Systems & Microcontrollers
+- Semiconductor Technology
+- Internet of Things (IoT)
+- Software & Hardware Integration
+
+---
+
 <div align="center">
 
-### Building Networks. Writing Code. Exploring the Sky. 🚀
+### 🌌 Connecting Networks. Engineering Systems. Exploring the Sky.
 
-*Network Engineering • Software Development • UAV Technology*
+**Network Engineering • Software Development • Embedded Systems • UAVs**
+
+⭐ Thanks for visiting my profile!
 
 </div>
