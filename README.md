@@ -58,7 +58,7 @@ I'm a **Computer Network Engineering student** passionate about networking, prog
 |:---|:---|
 | 🌐 Networking | Network Design, Routing, Switching |
 | 🚁 UAV Technology | Drones, Flight Controllers, UAV Communication |
-| 🔌 Microcontrollers | Arduino, ESP32, STM32 |
+| 🔌 Microcontrollers | STM32 , ARM Cortex-M , Arduino, ESP32 |
 | ⚡ Embedded Systems | Firmware, Hardware Integration, IoT |
 | 🔬 Semiconductors | Integrated Circuits, Semiconductor Devices |
 | 📡 Wireless Systems | Wireless Networks, Communication Protocols |
