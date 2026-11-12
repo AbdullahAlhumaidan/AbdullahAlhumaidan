@@ -22,7 +22,7 @@ My interests include network infrastructure, wireless communication, embedded sy
 
 - 🌐 **Networking:** Routing, switching, and network infrastructure
 - 💻 **Programming:** Python, Java, JavaScript, C, and C++
-- 🖥️ **Hardware:** Working with Orange Pi 4
+- 🖥️ **Hardware:** Working with Raspberry Pi
 - 🔌 **Embedded Systems:** Exploring microcontrollers and hardware integration
 - 🚁 **Current Focus:** UAV communications and aerial cellular networks
 - 🔬 **Engineering Interests:** Wireless systems, IoT, semiconductors, and electronics
@@ -46,7 +46,7 @@ My interests include network infrastructure, wireless communication, embedded sy
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Orange Pi 4](https://img.shields.io/badge/Orange%20Pi%204-FF7900?style=flat-square)
+![Orange Raspberry Pi](https://img.shields.io/badge/Orange%20Pi%204-FF7900?style=flat-square)
 
 ---
 
