@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Abdullah Alhumaidan 👋
@@ -40,7 +39,7 @@ My interests include network infrastructure, wireless communication, embedded sy
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 🌐 Networking & Development Tools
+### 🌐 Networking & Engineering Tools
 
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
@@ -51,9 +50,9 @@ My interests include network infrastructure, wireless communication, embedded sy
 
 ---
 
-# 🚀 Selected Engineering Projects
+## 🚀 Selected Engineering Projects
 
-A collection of academic and practical engineering projects involving computer networks, wireless systems, and embedded technologies.
+A selection of academic engineering projects exploring computer networking, wireless communication, UAV systems, and embedded technologies.
 
 ---
 
@@ -61,15 +60,19 @@ A collection of academic and practical engineering projects involving computer n
 
 **Network Design & Simulation**
 
-<p align="center">
-  <img src="./assets/hospital-network-topology.jpg" width="750" alt="Hospital Network Infrastructure Topology" />
-</p>
+<div align="center">
+
+<img src="./assets/hospital-network-topology.jpg" width="750" alt="Hospital Network Infrastructure Topology" />
+
+<sub>Hospital Network Topology</sub>
+
+</div>
 
 ### Hospital Network Infrastructure Design & Implementation
 
 Designed and simulated a **three-building hospital network** connecting the main hospital, outpatient clinics, and administration and data center facilities.
 
-The project focuses on developing a structured, reliable, and scalable network infrastructure using routing, switching, VLAN segmentation, redundancy, and network services.
+The project focuses on developing a structured, reliable, and scalable network infrastructure using routing, switching, VLAN segmentation, redundancy, and centralized network services.
 
 **Technical Highlights**
 
@@ -84,31 +87,33 @@ The project focuses on developing a structured, reliable, and scalable network i
 
 `Cisco Packet Tracer` `draw.io` `VLAN` `OSPF` `DHCP` `Routing & Switching`
 
-📄 **[View Project Details](./projects/hospital-network/README.md)**
-
 ---
 
 ## 🚁 02 · Multi-UAV Aerial Cellular Network
 
-**🎓 Graduation Project — In Progress**
+**🎓 Graduation Project | In Progress**
 
 ### Design and Implementation of a Multi-UAV Aerial Cellular Network for Emergency Connectivity and Coverage Restoration
 
-An ongoing graduation project exploring a cooperative **UAV-based aerial cellular network** intended to restore communication coverage during terrestrial network failures and extend connectivity to isolated geographical areas.
+An ongoing graduation project exploring a cooperative **UAV-based aerial cellular network** intended to restore communication coverage during terrestrial network failures and extend connectivity to geographically isolated areas.
 
 The proposed architecture investigates the deployment of multiple UAVs operating as gateway, relay, and access nodes to establish temporary aerial communication links.
 
 ### 📡 Scenario 1 — Emergency Cellular Coverage Restoration
 
-<p align="center">
-  <img src="./assets/IMG_1698.jpeg" width="750" alt="UAV-Based Cellular Network Restoration Scenario" />
-</p>
+<div align="center">
 
-**Multi-Hop UAV-Based Wireless Bridge**
+<img src="./assets/IMG_1698.jpeg" width="750" alt="Multi-Hop UAV-Based Wireless Bridge" />
 
-This scenario investigates the use of cooperating UAVs to establish wireless relay links when a terrestrial cellular base station becomes unavailable.
+<sub>Scenario 1: Multi-Hop UAV-Based Wireless Bridge</sub>
 
-The proposed system explores temporary aerial communication infrastructure to bridge connectivity gaps and support communication continuity during network outages.
+</div>
+
+**Emergency Network Restoration**
+
+This scenario investigates using cooperating UAVs to establish wireless relay links between operational cellular towers when an intermediate terrestrial base station becomes unavailable.
+
+The proposed system explores a temporary multi-hop aerial bridge to maintain connectivity across the affected region.
 
 **Key Concepts**
 
@@ -116,17 +121,23 @@ The proposed system explores temporary aerial communication infrastructure to br
 
 ---
 
-### 🛰️ Scenario 2 — Multi-Hop UAV Relay Network
+### 🛰️ Scenario 2 — Multi-Hop UAV Swarm Relay
 
-<p align="center">
-  <img src="./assets/IMG_1699.jpeg" width="750" alt="Multi-Hop UAV Relay Network Across Terrain Obstacles" />
-</p>
+<div align="center">
+
+<img src="./assets/IMG_1699.jpeg" width="750" alt="Multi-Hop UAV Relay Across Terrain Obstacles" />
+
+<sub>Scenario 2: Multi-Hop UAV Relay Across Terrain Obstacles</sub>
+
+</div>
 
 **Extended Wireless Coverage Across Geographical Obstacles**
 
-This scenario investigates deploying multiple UAVs to establish wireless connectivity across challenging terrain, including mountains, valleys, and remote locations.
+This scenario investigates deploying multiple UAVs to overcome line-of-sight limitations caused by mountains, valleys, and other geographical obstacles.
 
-The proposed architecture uses gateway, relay, and access UAVs to form an aerial communication path between an operational terrestrial network and an isolated service area.
+The proposed architecture uses gateway, relay, and access UAVs to establish an aerial communication path between an operational terrestrial network and an isolated service area.
+
+It also explores temporary cellular coverage for remote locations and high-density gatherings.
 
 **Key Concepts**
 
@@ -134,7 +145,7 @@ The proposed architecture uses gateway, relay, and access UAVs to form an aerial
 
 ---
 
-**Graduation Project Focus**
+### Graduation Project Focus
 
 - UAV-based communication architectures
 - Emergency cellular coverage restoration
@@ -143,9 +154,7 @@ The proposed architecture uses gateway, relay, and access UAVs to form an aerial
 - Communication across terrain obstacles
 - Network resilience and service continuity
 
-*The diagrams represent conceptual engineering scenarios for an ongoing graduation project.*
-
-📄 **[View Graduation Project Overview](./projects/multi-uav-cellular-network/README.md)**
+*The illustrations represent proposed engineering scenarios for an ongoing graduation project.*
 
 ---
 
@@ -159,22 +168,15 @@ A student engineering project focused on designing and fabricating a portable an
 
 The project explores antenna design, mechanical integration, and low-cost fabrication using 3D printing.
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/portable-antenna-prototype.jpg" width="100%" alt="Portable Network Antenna Prototype" />
-      <br/>
-      <strong>Antenna Prototype</strong>
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/portable-antenna-design.jpg" width="100%" alt="Portable Antenna Design" />
-      <br/>
-      <strong>Antenna Design</strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-**Technical Highlights**
+<img src="./assets/portable-antenna-design.jpg" width="600" alt="Portable Network Antenna Design" />
+
+<sub>Portable Antenna — Engineering Design</sub>
+
+</div>
+
+### Technical Highlights
 
 - Portable antenna concept
 - Antenna structure and mechanical design
@@ -185,8 +187,6 @@ The project explores antenna design, mechanical integration, and low-cost fabric
 **Technologies**
 
 `Antenna Design` `SolidWorks` `3D Printing` `Wireless Networks`
-
-📄 **[View Project Details](./projects/portable-network-antenna/README.md)**
 
 ---
 
@@ -200,22 +200,15 @@ An academic embedded systems project exploring multiple approaches for controlli
 
 The system explores lighting control using Arduino, infrared remote commands, motion detection, and wireless connectivity.
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/arduino-lighting-prototype.jpg" width="100%" alt="Arduino Smart Lighting Prototype" />
-      <br/>
-      <strong>Lighting System Prototype</strong>
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/arduino-lighting-schematic.jpg" width="100%" alt="Arduino Lighting Circuit Schematic" />
-      <br/>
-      <strong>Circuit Schematic</strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-**Technical Highlights**
+<img src="./assets/arduino-lighting-schematic.jpg" width="650" alt="Arduino Smart Lighting Circuit Schematic" />
+
+<sub>Smart Lighting System — Circuit Schematic</sub>
+
+</div>
+
+### Technical Highlights
 
 - Arduino-based lighting control
 - Infrared remote communication
@@ -227,8 +220,6 @@ The system explores lighting control using Arduino, infrared remote commands, mo
 **Technologies**
 
 `Arduino` `Embedded Systems` `PIR` `IR Remote` `NodeMCU` `Relay Modules`
-
-📄 **[View Project Details](./projects/arduino-smart-lighting/README.md)**
 
 ---
 
